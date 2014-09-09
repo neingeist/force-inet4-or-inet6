@@ -1,0 +1,2 @@
+#!/bin/bash
+LD_PRELOAD=/usr/local/lib/force-inet6.so "$@"
